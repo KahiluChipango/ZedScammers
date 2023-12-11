@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Scam.Pezapo.com - Under Construction</title>
+    <title>Pezapo Scammers - Under Construction</title>
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <!-- Additional styles or external CSS files can be linked here -->
     <style>
@@ -23,7 +23,7 @@
 <!-- Header -->
 <header class="bg-blue-500 text-white py-4">
     <div class="container mx-auto">
-        <h1 class="text-2xl font-bold sm:text-3xl">Scam.Pezapo.com</h1>
+        <h1 class="text-2xl font-bold sm:text-3xl">Pezapo Scammers</h1>
         <p class="text-sm sm:text-base">Exciting News! Introducing a new initiative in the fight against scammers.</p>
     </div>
 </header>
@@ -38,9 +38,10 @@
 <!-- Footer -->
 <footer class="bg-gray-200 py-4">
     <div class="container mx-auto text-center text-gray-600">
-        <p>&copy; 2023 Scam.Pezapo.com. All rights reserved.</p>
+        <p>&copy; 2023 Pezapo Scammers. All rights reserved.</p>
     </div>
 </footer>
 
 </body>
 </html>
+
