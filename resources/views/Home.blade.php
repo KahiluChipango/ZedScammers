@@ -6,6 +6,17 @@
     <title>Scam.Pezapo.com - Under Construction</title>
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <!-- Additional styles or external CSS files can be linked here -->
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+
+        main {
+            flex-grow: 1;
+        }
+    </style>
 </head>
 <body class="font-sans bg-gray-100">
 
