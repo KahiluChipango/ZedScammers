@@ -22,9 +22,21 @@
 
 <!-- Header -->
 <header class="bg-blue-500 text-white py-4">
-    <div class="container mx-auto">
-        <h1 class="text-2xl font-bold sm:text-3xl">Pezapo Scammers</h1>
-        <p class="text-sm sm:text-base">Exciting News! Introducing a new initiative in the fight against scammers.</p>
+    <div class="container mx-auto flex items-center justify-between">
+        <!-- Logo container -->
+        <div class="flex items-center">
+            <img src="{{ asset('storage/Pics/Pezapo Scamers.png') }}" alt="Pezapo Scammers Logo" class="max-w-full h-12 mr-2">
+            <h1 class="text-2xl font-bold sm:text-3xl">Pezapo Scammers</h1>
+        </div>
+
+       {{-- <!-- Navigation -->
+        <nav class="flex items-center">
+            <a href="#" class="text-white ml-4">Home</a>
+            <a href="#" class="text-white ml-4">About</a>
+            <a href="#" class="text-white ml-4">Report Scam</a>
+            <a href="#" class="text-white ml-4">Scammer Numbers</a>
+            <a href="#" class="text-white ml-4">Contact</a>
+        </nav>--}}
     </div>
 </header>
 
@@ -44,4 +56,3 @@
 
 </body>
 </html>
-
