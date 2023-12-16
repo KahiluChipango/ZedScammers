@@ -10,21 +10,6 @@
 
 <body class="font-sans bg-gray-100 flex flex-col min-h-screen">
 
-    <style>
-        /* Custom Colors */
-        .custom-blue {
-            background-color: #5A70FD;
-        }
-
-        .custom-light-blue {
-            background-color: #CBE8E8;
-        }
-
-        .custom-teal {
-            background-color: #0D8485;
-        }
-    </style>
-
     <!-- Header -->
     <header class="custom-blue text-white py-4">
         <div class="container mx-auto flex items-center justify-between">
@@ -39,16 +24,10 @@
 
     <!-- Main Content Area (Under Construction Message) -->
     <main class="container mx-auto mt-8 text-center flex-grow">
-        <h2 class="text-3xl font-bold text-gray-800">Under Construction</h2>
-        <p class="text-lg text-gray-600">I've set up this platform to empower you. The website is currently in
-            development, so stay tuned for updates!</p>
-        <p class="mt-4"><a href="https://www.facebook.com/profile.php?id=61552005604710&mibextid=hIlR13"
-                target="_blank"
-                class="text-teal-500 underline hover:text-teal-600">Follow us on Facebook for more
-                updates</a></p>
+
     </main>
 
-<!-- Footer -->
+
 <!-- Footer -->
 <footer class="custom-light-blue py-4">
     <div class="container mx-auto flex flex-col items-center text-gray-600">
