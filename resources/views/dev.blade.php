@@ -56,7 +56,7 @@
         <p class="hidden sm:block mb-2">&copy; 2023 Zed Scammers. All rights reserved.</p>
 
         <!-- Small Facebook Icon with Link -->
-        <a href="https://www.facebook.com/profile.php?id=61552005604710&mibextid=hIlR13" target="_blank"
+        <a href="https://web.facebook.com/zedscam" target="_blank"
             class="text-teal-500 underline hover:text-teal-600">
             <svg fill="currentColor" viewBox="0 0 24 24" class="oc se inline-block h-6 w-6" aria-hidden="true">
                 <path fill-rule="evenodd"
